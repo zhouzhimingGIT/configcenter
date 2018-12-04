@@ -12,9 +12,9 @@ spring:
   application:
     name: userservice
   datasource:
-    url: jdbc:mysql://192.168.0.24/school
-    username: admini
-    password: 123456
+    url: jdbc:mysql://localhost/school
+    username: root
+    password: ps123456
     driver-class-name: com.mysql.jdbc.Driver
 
 server:
