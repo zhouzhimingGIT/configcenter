@@ -18,4 +18,4 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
 
 server:
-  port: 8886
+  port: 8866
