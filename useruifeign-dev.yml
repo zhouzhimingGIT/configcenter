@@ -8,7 +8,7 @@ eureka:
     #抓取服务的IP
     fetch-registry: true
     serviceUrl:
-      defaultZone: http://192.168.119.131:8761/eureka/
+      defaultZone: http://192.168.119.132:8761/eureka/
 
 spring:
   application:
